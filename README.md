@@ -1,2 +1,2 @@
 # African-hair-stylists
-creating an app. for African hairstylists
+creating an app. for African hair stylists
